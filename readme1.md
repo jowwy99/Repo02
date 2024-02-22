@@ -10,4 +10,4 @@ Al crear un repositorio desde Git Hub y añadirme modificaciones se considera un
 ### 2-3 - Añade un fichero readme.md y ejecuta los comandos pertinentes hasta llegar a poder realizar un commit
 ![❌ERROR❌](./img/img2.png "commit")  
 
-🚨🚨**El ejercicio 2.4 está en el archivo Readme2**🚨🚨
+🚨🚨**El ejercicio 2.4 está en el primer ejercicio**🚨🚨
