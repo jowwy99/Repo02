@@ -1,4 +1,4 @@
-# EJERCICIO 2  
+# EJERCICIO 2 - Parte 1
 ### 2.1 - Crea un repositorio llamado repo02 desde GitHub. ¿Sería considerado un repositorio local o remoto?  
 Al crear un repositorio desde Git Hub y añadirme modificaciones se considera un repositorio remoto.
 
@@ -8,4 +8,6 @@ Al crear un repositorio desde Git Hub y añadirme modificaciones se considera un
 ![❌ERROR❌](./img/img1.png "clonando un repositorio remoto")  
 
 ### 2-3 - Añade un fichero readme.md y ejecuta los comandos pertinentes hasta llegar a poder realizar un commit
+![❌ERROR❌](./img/img2.png "clonando un repositorio remoto")  
 
+🚨🚨**El ejercicio 2.4 está en el archivo Readme2**🚨🚨
